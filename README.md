@@ -1,6 +1,6 @@
 # 🐱🐶 Cat vs Dog Image Classification using Convolutional Neural Network
 
-This project demonstrates a complete deep learning pipeline to classify images of cats and dogs using both a **sequential CNN model**.
+This project demonstrates a complete deep learning pipeline to classify images of cats and dogs using a **sequential CNN model**.
 
 ## 🚀 Highlights
 
