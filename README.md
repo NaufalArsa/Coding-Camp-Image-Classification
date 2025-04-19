@@ -1,4 +1,4 @@
-# 🐱🐶 Cat vs Dog Image Classification with Transfer Learning
+# 🐱🐶 Cat vs Dog Image Classification using Convolutional Neural Network
 
 This project demonstrates a complete deep learning pipeline to classify images of cats and dogs using both a **basic CNN model** and a **Transfer Learning** approach with MobileNetV2.
 
